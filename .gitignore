@@ -1,0 +1,9 @@
+node_modules/
+backend/dist/
+frontend/.next/
+*.tsbuildinfo
+.env
+database/app.sqlite
+database/app.sqlite-journal
+database/uploads/
+database/media/

@@ -1,0 +1,37 @@
+HOW TO USE THIS FILE
+Starter draft only, not legal advice. It describes what this website actually collects, based on how it is built.
+Square-bracket items need the client's answers. Ask the client (or their adviser) to review and approve it.
+Then delete these instructions and everything above the line below, replace the brackets, and paste the rest into
+Admin → Settings → Privacy policy. Blank line = new paragraph, "## " = heading, "- " = list item.
+=====================================================================================================
+
+## Who we are
+This website is run by [legal business name], trading as Chandler Landscaping, at [business address]. You can contact us on [phone] or at [email].
+
+## What we collect
+When you send a quote request, we collect the details you type into the form:
+- your name, phone number and email address
+- the address or area of the property
+- the service you are interested in and, if you give one, a preferred date
+- any project details you write
+- any photos you choose to attach (up to 5)
+
+We also record the date and time you agreed to us using your details to reply.
+
+## Why we use it
+We use these details to reply to your request, to arrange and give you a quote, and to keep a record of our enquiries. [Add any other purpose, for example sending a reminder or follow-up.]
+
+## Who can see it
+Your details are saved in this website's database. Photos are stored privately and can only be opened by signed-in administrators of the site. When a request arrives, we email an alert to [notification email] with your name, contact details and project details (not your photos) through [email provider]. The website is hosted by [hosting provider]. We do not sell your details. [Confirm: no other sharing.]
+
+## How long we keep it
+[State how long enquiries and photos are kept, and what happens after that.]
+
+## Your choices
+You can ask us to show you the details we hold about you, correct them or delete them by contacting [contact email or phone]. [Add any rights that apply in the client's location.]
+
+## Cookies and tracking
+[Confirm before publishing: this site does not use advertising or analytics cookies. If analytics, a map, a chat widget or any other third-party service is added, describe it here.]
+
+## Changes to this policy
+We may update this policy from time to time. The current version is always on this page. [Add "Last updated: date".]

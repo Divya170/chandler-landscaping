@@ -1,0 +1,20 @@
+{
+  "name": "chandler-landscaping",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chandler Landscaping website \u2014 Next.js frontend, NestJS API, SQLite3 database",
+  "scripts": {
+    "setup": "npm install && npm --prefix backend install && npm --prefix frontend install",
+    "dev": "concurrently -n api,web -c green,blue \"npm --prefix backend run start:dev\" \"npm --prefix frontend run dev\"",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "start": "concurrently -n api,web -c green,blue \"npm --prefix backend run start\" \"npm --prefix frontend run start\"",
+    "typecheck": "npm --prefix backend run typecheck && npm --prefix frontend run typecheck",
+    "test": "npm --prefix backend test"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
